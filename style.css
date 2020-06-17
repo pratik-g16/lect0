@@ -11,7 +11,14 @@ table
 {
 	margin-top: 10px;
 	color:green;
+	width: 50%;
 }
+.name
+{
+	font-size: 32px;
+	font-weight: bold;
+}
+
 ul
 {
 	color:red;
@@ -22,7 +29,8 @@ ol
 }
 #d1
 {
-	font-family:arial,sans-serif;
+	border:2px dotted magenta;
+	font-family:all;
 	font-size: 20px;
 	font-weight: bold;
 	padding :20px;
@@ -31,6 +39,7 @@ ol
 }
 #d2
 {
+	border:5px solid blue;
 	padding :20px;
 	margin:30px;
 	background-color: #BEDAF3;
